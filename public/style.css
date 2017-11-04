@@ -1,0 +1,28 @@
+        .container {
+            margin: 2% auto;
+            width: 60%;
+            min-height: 100%;
+            color: #333;
+            font-family: 'Roboto', Colibri, sans-serif;
+        }
+        code {
+            color: red;
+            background-color: #fff53f;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        ul {
+            margin-left: 2%;
+        }
+        li {
+            list-style-type: none;
+        }
+        h3 {
+            margin-left: 1%;
+        }
+        span {
+            font-weight: 700;
+        }
+        .break {
+            margin-left: 3%;
+        }
